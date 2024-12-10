@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.btn {
+  @apply bg-gradient-to-tl from-blue-400 to-blue-300 px-4 py-3 rounded
+}
+.backgoundcs{
+  @apply bg-gradient-to-t from-backgoundco2 to-backgoundco
+}
