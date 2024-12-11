@@ -9,3 +9,9 @@
 .backgoundcs{
   @apply bg-gradient-to-t from-backgoundco2 to-backgoundco
 }
+
+.lato-bold {
+  font-family: "Lato", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
